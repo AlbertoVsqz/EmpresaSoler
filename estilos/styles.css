@@ -1,0 +1,61 @@
+body{
+    background: darkviolet;
+}
+
+#container{
+    
+    background: #cccccc;
+    border: 10px solid peru;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0;
+}
+#bac{
+    background: #cccccc;
+     border-radius: 40px;
+    
+    margin: 0 auto;
+    padding: 0;
+}
+#form{
+   margin-left: 220px;
+    
+    
+}
+
+.col1{ 
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 220px;
+}
+#c{
+     margin: 0;
+    padding: 0;
+    float: none;
+    display: inline-block;
+    width: 300px;
+}
+
+.col2{
+    margin: 0;
+    padding: 0;
+    float: none;
+    display: inline-block;
+    width: 300px;
+
+}
+.col4{
+    margin: 0;
+    padding: 0;
+    float: left;
+    display: inline-block;
+    width: 200px;
+
+}
+
+.filas{
+   background: silver;
+    border: darkgreen;
+    margin: 10px;
+}
